@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_old_movies"
+        android:icon="@drawable/parthenon"
+        android:title="Nagrađivani klasici" />
+    <item
+        android:id="@+id/nav_new_movies"
+        android:icon="@drawable/rocket"
+        android:title="Uskoro u kinima" />
+</menu>

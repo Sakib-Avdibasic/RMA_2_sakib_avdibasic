@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269441355214",
+    "project_id": "ipia-8e446",
+    "storage_bucket": "ipia-8e446.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269441355214:android:143a37982f9743643e6f9f",
+        "android_client_info": {
+          "package_name": "com.example.rma_2_sakib_avdibasic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODGaTMqBV4p5e5gbeNJJZ93lXmWqy9pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

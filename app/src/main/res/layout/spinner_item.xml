@@ -1,0 +1,10 @@
+<!-- res/layout/spinner_selected_item.xml -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spinnerSelectedTextView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="-5dp"
+    android:gravity="center_vertical"
+    android:paddingStart="5dp"
+    android:paddingBottom="0dp"
+    android:textSize="18sp" />
